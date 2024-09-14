@@ -1,0 +1,76 @@
+<resources>
+    <string name="app_name">Pruebas</string>
+    <string name="title_activity_destinos">destinos</string>
+
+    <!--Welcome - Pantalla Principal-->
+    <string name="welcome">Explorar</string>
+
+    <!--Destinos-->
+
+    <!-- Destino01-->
+    <string name="destino01_image">Imagen del destino</string>
+    <string name="destino01_title">San Carlos de Bariloche</string>
+    <string name="destino01_description">Paisajes majestuosos, lagos cristalinos, montañas imponentes, chocolate artesanal, esquí de clase mundial y encanto alpino.</string>
+    <string name="buy_button">Comprar</string>
+
+    <!-- Destino02 -->
+    <string name="destino02_title">Villa Carlos Paz</string>
+    <string name="destino02_description">Lago, teatro, naturaleza, diversión, espectáculos, sierras, tranquilidad, gastronomía, balnearios, entretenimiento y relax.</string>
+
+    <string name="destino03_title">Necochea</string>
+    <string name="destino03_description">Playas extensas, paseos costeros, faro histórico, pesca deportiva, tranquilidad, dunas imponentes, atardeceres espectaculares.</string>
+
+
+    <!-- Destino03 - AGREGAR MAS DESTINOS! -->
+
+    <!--Login -FALTA!!! -->
+    <string name="titulo_login">Iniciar Sesión</string>
+
+
+    <!--Registro -FALTA!!! -->
+    <string name="prompt_email">Email</string>
+    <!-- Títulos y botones -->
+    <string name="register_title">Registrarse</string>
+    <string name="register_button">Registrarse</string>
+
+    <!-- Indicaciones en los campos -->
+    <string name="hint_name">Nombre</string>
+    <string name="hint_email">Correo Electrónico</string>
+    <string name="hint_password">Contraseña</string>
+    <string name="hint_confirm_password">Repetir Contraseña</string>
+
+    <!-- Texto del CheckBox -->
+    <string name="privacy_policy">Acepto las políticas de privacidad</string>
+
+
+    <!--Nosotros-->
+    <string name="quienes_somos">¿Quiénes somos?</string>
+    <string name="description_quienes_somos">Desde hace 20 años, Travel Dreams ha sido la brújula que guía a aventureros de todas las edades en sus viajes más esperados. Nuestra misión trasciende un simple itinerario; es una promesa de aventura, descubrimiento y recuerdos que perduran toda la vida.</string>
+
+    <!-- Nuestro Equipo -->
+    <string name="equipo">Nuestro Equipo</string>
+    <string name="m_1">Cantarino, Emmanuel</string>
+    <string name="m_1_profile">Full Stack</string>
+
+    <string name="m_2">Cascallares, Facundo</string>
+    <string name="m_2_profile">Full Stack</string>
+
+    <string name="m_3">Fernandez, Claudio Ranses</string>
+    <string name="m_3_profile">Full Stack</string>
+
+    <string name="m_4">González, Natalia</string>
+    <string name="m_4_profile">Full Stack</string>
+
+    <string name="m_5">Navarrete, Romina Gabriela</string>
+    <string name="m_5_profile">Full Stack</string>
+
+    <string name="m_6">Oro, Elias</string>
+    <string name="m_6_profile">Full Stack</string>
+
+    <string name="m_7">Ortiz, Fernando Ariel</string>
+    <string name="m_7_profile">Full Stack</string>
+
+    <string name="m_8">Soto Valenzuela, Juan Gabriel</string>
+    <string name="m_8_profile">Full Stack</string>
+
+</resources>
